@@ -1,0 +1,12 @@
+{
+  "domain": "tibber_full",
+  "name": "Tibber Full Integration",
+  "codeowners": [
+    "@stefancastille"
+  ],
+  "config_flow": true,
+  "documentation": "https://github.com/stefancastille/tibber_full",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/stefancastille/tibber_full/issues",
+  "version": "0.1.0"
+}
